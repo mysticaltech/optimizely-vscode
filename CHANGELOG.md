@@ -2,6 +2,7 @@
 
 ## Unreleased
  - Add new method `getFeatureVariableJSON` to support JSON feature variables.
+ - Add `getAllFeatureVariables` to auto-complete.
 
 ## 0.0.6
 May 25, 2020
